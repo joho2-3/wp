@@ -1,0 +1,60 @@
+テーマ名	: Blanc
+著作者		: Mamekko
+著作者URL	: http://welcustom.net/
+テーマURL	: http://welcustom.net/mamekko/index.html
+デモページ	: http://demo.welcustom.net/
+著作権		: Copyright (c) 2014 welcustom.net
+ライセンス	: GNU General Public License v3
+
+このプログラムは無償のソフトウェアです。フリーソフトウェア財団が発行しているGNU一般公衆利用許諾書（GPL)バージョン3以上の内容に基づき、ソフトウェアの再配布・改変をすることが許可されます。
+
+このプログラムは利便性を目的に配布されていますが、「商品性（商品として最低限満たすべき性質）」及び「特定目的への適合性（商品が特定の目的に対しそれを満たすかどうか）」を含め、一切の補償はございません。詳細はGNU一般公衆利用許諾書（GPL)をご参照下さい。
+
+このプラグラムと同時に、GNU一般公衆利用許諾書（GPL)を入手していない場合は、以下のサイトをご覧下さい。
+http://www.gnu.org/licenses/gpl-3.0.html
+
+【著作権者情報】
+
+Foundation 5 - レスポンシブCSS
+URL: http://foundation.zurb.com/
+License: MIT
+Copyright: ZURB, Inc
+
+Awesome Fonts - アイコンフォント
+URL: http://fortawesome.github.io/Font-Awesome
+License: SIL Open Font License, 1.1
+Copyright: Dave Gandy
+
+Quicksand - フォント
+URL: http://www.google.com/fonts/specimen/Quicksand
+License: SIL Open Font License, 1.1
+Copyright: Andrew Paglinawan
+
+jQuery FlexSlider - スライダー
+URL: http://flexslider.woothemes.com/
+License: GPL2.0
+Copyright : 2012 WooThemes
+
+jQuery Swipebox - ライトボックス
+URL: http://brutaldesign.github.io/swipebox/
+License: MIT
+Copyright: Constantin Saguin
+
+jQuery Validation Engine - 入力チェック
+URL: https://github.com/posabsolute/jQuery-Validation-Engine
+License: MIT
+Copyright: Cedric Dugas
+
+TGM Plugin Activation v2.4.0 - プラグイン推奨
+URL: http://tgmpluginactivation.com/
+License: GPL2.0 or later
+Copyright: Thomas Griffin
+
+
+【コード参照】
+
+Quantity incriments jquery
+http://jigowatt.co.uk/blog/magento-quantity-increments-jquery-edition/
+
+Get attachment ID from URL
+http://frankiejarrett.com/get-an-attachment-id-by-url-in-wordpress/

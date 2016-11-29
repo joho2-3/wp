@@ -1,0 +1,123 @@
+/**
+ * The Editor style sheet
+ * @link		http://welcustom.net/
+ * @author		Mamekko
+ * @copyright	Copyright (c) 2015 welcustom.net
+ */
+
+.mceContentBody{
+	max-width: 870px;
+	font-family: 'Meiryo', 'Hiragino Kaku Gothic Pro', sans-serif;
+	font-size: 1rem;
+	line-height: 1.6;
+}
+/* Typographies */
+h1, h2, h3, h4, h5, h6 {
+	margin-top: 0.2rem;
+	margin-bottom: 0.5rem;
+	font-weight: normal;
+}
+h1 { font-size: 2rem; }
+h2 { font-size: 1.75rem; }
+h3 { font-size: 1.6875rem; }
+h4 { font-size: 1.4375rem; }
+h5 { font-size: 1.125rem; }
+h6 { font-size: 1rem; }
+blockquote {
+	margin: 0 0 1.25rem;
+	padding: 0.5625rem 1.25rem 0 1.1875rem;
+	border-left: 1px solid #ddd;
+}
+blockquote, blockquote p {
+	margin-top: 0;
+	color: #6f6f6f;
+}
+blockquote cite {
+	display: block;
+	font-size: 0.8125rem;
+	color: #555;
+}
+ul, ol, dl {
+	font-size: 1rem;
+	line-height: 1.6;
+	margin-bottom: 1.25rem;
+	list-style-position: outside;
+	font-family: inherit;
+}
+dl dt {
+	margin-bottom: 0.3rem;
+	font-weight: bold;
+}
+dl dd {
+	margin: 0 0 0.75rem 0;
+}
+code {
+	font-family: Consolas,"Liberation Mono",Courier,monospace;
+	font-weight: normal;
+	color: #333;
+	background-color: #f8f8f8;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #e0e0e0;
+	padding: 0.125rem 0.3125rem 0.0625rem;
+}
+ul li ul, ul li ol, ol li ul, ol li ol {
+	margin-left: 1.25rem;
+	margin-bottom: 0;
+}
+pre {
+	font-family: monospace;
+}
+
+/* Tables */
+.mce-item-table {
+	width: 100%;
+	margin-bottom: 1.25rem;
+	border: 1px solid #ddd;
+	border-collapse: collapse;
+	font-size: .875rem;
+}
+.mce-item-table tr th {
+	background: #eee;
+}
+.mce-item-table tr th, .mce-item-table tr td {
+	padding: .25rem;
+}
+
+/* Images */
+img {
+	max-width: 100%;
+	height: auto;
+}
+.aligncenter {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 1rem auto;
+}
+.alignleft {
+	float: left;
+	max-width: 100%;
+	height: auto;
+	margin: 0 1rem 1rem 0;
+}
+.alignright {
+	float: right;
+	max-width: 100%;
+	height: auto;
+	margin: 0 0 1rem 1rem;
+}
+.wp-caption,
+.gallery-caption {
+	max-width: 100%;
+	height: auto;
+}
+.wp-caption-dd {
+	color: #888;
+	font-size: .75rem;
+	font-style: italic;
+	text-align: center;
+}
+ul, ol {
+    overflow: auto;
+}

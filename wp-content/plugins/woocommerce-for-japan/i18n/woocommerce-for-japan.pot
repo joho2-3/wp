@@ -1,0 +1,398 @@
+# Copyright (C) 2016 WooCommerce For Japan
+# This file is distributed under the same license as the WooCommerce For Japan package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce For Japan 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce-for-"
+"japan\n"
+"POT-Creation-Date: 2016-08-05 12:30:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-wc-address-field-4jp.php:46
+msgid "Country"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:51
+msgid "Last Name"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:56
+msgid "First Name"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:62
+msgid "Last Name (Yomigana)"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:67
+msgid "First Name (Yomigana)"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:73
+#: includes/views/html-admin-setting-screen.php:11
+msgid "Company Name"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:77
+msgid "Postcode / Zip"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:78
+msgctxt "placeholder"
+msgid "123-4567"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:85
+#: includes/class-wc-address-field-4jp.php:117
+#: includes/class-wc-address-field-4jp.php:144
+msgid "Prefecture"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:92
+#: includes/class-wc-address-field-4jp.php:93
+msgid "Town / City"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:98
+msgid "Address"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:99
+msgctxt "placeholder"
+msgid "Street address"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:104
+msgctxt "placeholder"
+msgid "Apartment, suite, unit etc. (optional)"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:124
+msgid "Email Address"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:130
+msgid "Billing Phone"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:151
+msgid "Shipping Phone"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:236
+#: includes/class-wc-address-field-4jp.php:267
+#: includes/class-wc-address-field-4jp.php:293
+#: includes/class-wc-address-field-4jp.php:316
+msgid "Last Name Yomigana"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:240
+#: includes/class-wc-address-field-4jp.php:271
+#: includes/class-wc-address-field-4jp.php:297
+#: includes/class-wc-address-field-4jp.php:320
+msgid "First Name Yomigana"
+msgstr ""
+
+#: includes/class-wc-address-field-4jp.php:245
+#: includes/class-wc-address-field-4jp.php:275
+#: includes/class-wc-address-field-4jp.php:331
+msgid "Phone"
+msgstr ""
+
+#: includes/class-wc-admin-screen-4jp.php:27
+msgid "For Japanese"
+msgstr ""
+
+#: includes/class-wc-cod-fee-4jp.php:145
+msgid "Extra charge for COD method"
+msgstr ""
+
+#: includes/class-wc-cod-fee-4jp.php:149 includes/class-wc-cod-fee-4jp.php:152
+msgid "Fee name"
+msgstr ""
+
+#: includes/class-wc-cod-fee-4jp.php:153
+msgid "COD Payment method fee"
+msgstr ""
+
+#: includes/class-wc-cod-fee-4jp.php:158 includes/class-wc-cod-fee-4jp.php:161
+msgid "Extra charge amount"
+msgstr ""
+
+#: includes/class-wc-cod-fee-4jp.php:167
+msgid "Maximum cart value to which adding fee"
+msgstr ""
+
+#: includes/class-wc-cod-fee-4jp.php:170
+msgid "Maximum cart value for adding fee"
+msgstr ""
+
+#: includes/class-wc-cod-fee-4jp.php:172
+msgid "If you dont need this setting, please set empty, 0."
+msgstr ""
+
+#: includes/class-wc-cod-fee-4jp.php:177
+msgid "Includes taxes"
+msgstr ""
+
+#: includes/class-wc-cod-fee-4jp.php:180
+msgid "Calculate taxes on this fee"
+msgstr ""
+
+#: includes/class-wc-cod-fee-4jp.php:182
+msgid "Do not calculate taxes"
+msgstr ""
+
+#: includes/class-wc-cod-fee-4jp.php:183
+msgid "The fee is taxes included"
+msgstr ""
+
+#: includes/class-wc-cod-fee-4jp.php:184
+msgid "The fee is taxes excluded"
+msgstr ""
+
+#: includes/gateways/atstore/class-wc-gateway-atstore-jp.php:25
+msgid "Pay At Store"
+msgstr ""
+
+#: includes/gateways/atstore/class-wc-gateway-atstore-jp.php:26
+msgid "Allows At Store payments."
+msgstr ""
+
+#: includes/gateways/atstore/class-wc-gateway-atstore-jp.php:52
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:68
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:66
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/gateways/atstore/class-wc-gateway-atstore-jp.php:54
+msgid "Enable At Store Payment"
+msgstr ""
+
+#: includes/gateways/atstore/class-wc-gateway-atstore-jp.php:58
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:74
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:72
+msgid "Title"
+msgstr ""
+
+#: includes/gateways/atstore/class-wc-gateway-atstore-jp.php:60
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:76
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:74
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/gateways/atstore/class-wc-gateway-atstore-jp.php:61
+msgid "At Store Payment"
+msgstr ""
+
+#: includes/gateways/atstore/class-wc-gateway-atstore-jp.php:65
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:81
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:79
+msgid "Description"
+msgstr ""
+
+#: includes/gateways/atstore/class-wc-gateway-atstore-jp.php:67
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:83
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:81
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+
+#: includes/gateways/atstore/class-wc-gateway-atstore-jp.php:68
+msgid "Please pay the fee at Store."
+msgstr ""
+
+#: includes/gateways/atstore/class-wc-gateway-atstore-jp.php:72
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:88
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:86
+msgid "Instructions"
+msgstr ""
+
+#: includes/gateways/atstore/class-wc-gateway-atstore-jp.php:74
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:90
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:88
+msgid "Instructions that will be added to the thank you page and emails."
+msgstr ""
+
+#: includes/gateways/atstore/class-wc-gateway-atstore-jp.php:114
+msgid "Awaiting At Store payment"
+msgstr ""
+
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:25
+#: includes/views/html-admin-setting-screen.php:32
+msgid "BANK PAYMENT IN JAPAN"
+msgstr ""
+
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:26
+msgid "Allows payments by bank transfer in Japan."
+msgstr ""
+
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:70
+msgid "Enable Bank Transfer"
+msgstr ""
+
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:77
+msgid "Bank Transfer in Japan"
+msgstr ""
+
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:84
+msgid "Make your payment directly into our bank account."
+msgstr ""
+
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:107
+msgid "Account Details"
+msgstr ""
+
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:113
+msgid "Bank Name"
+msgstr ""
+
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:114
+msgid "Bank Branch"
+msgstr ""
+
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:115
+msgid "Bank Type"
+msgstr ""
+
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:116
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:251
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:112
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:239
+msgid "Account Number"
+msgstr ""
+
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:117
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:113
+msgid "Account Name"
+msgstr ""
+
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:122
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:118
+msgid "+ Add Account"
+msgstr ""
+
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:122
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:118
+msgid "Remove selected account(s)"
+msgstr ""
+
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:238
+msgid "Our Bank Details"
+msgstr ""
+
+#: includes/gateways/bank-jp/class-wc-gateway-bank-jp.php:282
+msgid "Awaiting BANK payment"
+msgstr ""
+
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:25
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:75
+#: includes/views/html-admin-setting-screen.php:33
+msgid "Postal transfer"
+msgstr ""
+
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:26
+msgid "Allows payments by Postal transfer in Japan."
+msgstr ""
+
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:68
+msgid "Enable Postal transfer"
+msgstr ""
+
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:82
+msgid "Make your payment directly into our Post Office Bank account."
+msgstr ""
+
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:105
+msgid "Post Office Account Details"
+msgstr ""
+
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:111
+msgid "Bank Symbol"
+msgstr ""
+
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:226
+msgid "Our Post Office Bank Details"
+msgstr ""
+
+#: includes/gateways/postofficebank/class-wc-gateway-postofficebank-jp.php:270
+msgid "Awaiting Post Office BANK payment"
+msgstr ""
+
+#: includes/views/html-admin-info-screen.php:1
+msgid "Infomation of Japanese Support"
+msgstr ""
+
+#: includes/views/html-admin-screen.php:3
+msgid "Setting"
+msgstr ""
+
+#: includes/views/html-admin-screen.php:3
+msgid "Infomations"
+msgstr ""
+
+#: includes/views/html-admin-setting-screen.php:4
+msgid "Address Display Setting"
+msgstr ""
+
+#: includes/views/html-admin-setting-screen.php:10
+msgid "Name Yomigana"
+msgstr ""
+
+#: includes/views/html-admin-setting-screen.php:12
+msgid "Free Shipping Display"
+msgstr ""
+
+#: includes/views/html-admin-setting-screen.php:21
+msgid "Please check it if you want to show %s only, when free shipping exist."
+msgstr ""
+
+#: includes/views/html-admin-setting-screen.php:23
+msgid "Please check it if you want to use input field for %s"
+msgstr ""
+
+#: includes/views/html-admin-setting-screen.php:28
+msgid "Payment Method"
+msgstr ""
+
+#: includes/views/html-admin-setting-screen.php:34
+msgid "Pay at store"
+msgstr ""
+
+#: includes/views/html-admin-setting-screen.php:42
+msgid "Please check it if you want to use the payment method of %s"
+msgstr ""
+
+#: includes/views/html-admin-setting-screen.php:47
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce-for-japan.php:100
+msgid ""
+"WooCommerce for Japanese is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce For Japan"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/woocommerce-for-japan/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Woocommerce toolkit for Japanese use."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Artisan Workshop"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wc.artws.info/"
+msgstr ""

@@ -1,0 +1,60 @@
+body {
+	background-color: #f1f1f1;
+}
+
+.tab-content {
+	padding: 10px 20px;
+}
+
+.tab-v2 {
+	margin: 20px 0 0;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+}
+
+.tab-v2 .nav-tabs li {
+	background-color: #d7ebf9;
+	border: 1px solid #aed0ca;
+	border-radius: 10px 10px 0 0;
+}
+
+.tab-v2 .nav-tabs li.active {
+	background-color: #3baae3;
+	border: 1px solid #2694e8;
+}
+
+.tab-v2 .nav-tabs li a {
+	font-weight: bold;
+}
+
+
+.tab-v2 .nav-tabs li.active a {
+	background-color: transparent;
+	border-color: transparent;
+	color: #fff;
+}
+
+.form-table tr {
+	border-bottom: 1px solid #ccc;
+}
+
+.form-table tr:last-child {
+	border-bottom: none;
+}
+
+.form-table th {
+	padding: 30px 10px;
+}
+
+.form-table p {
+	padding-bottom: 5px;
+	font-weight: 600;
+}
+
+.form-table input[type="text"] {
+	width: 75%;
+}
+
+.form-table input[type="checkbox"] {
+	margin-right: 10px;
+}

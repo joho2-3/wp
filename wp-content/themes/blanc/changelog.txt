@@ -1,0 +1,29 @@
+/*
+Theme Name: Blanc
+Author: Mamekko
+Author URI: http://welcustom.net/
+Theme URI: http://welcustom.net/mamekko/index.html
+Latest Version: 2.0.4
+*/
+********************************Version 2.0.4*****************************************
+*Updated jQuery plugins Swipebox and Flexslider2 to the latest versions.
+*Fixed an error of header explanations in wc_delivery_page.php. (for Welcart e-commerce plugin)
+*Added pagination in front-page.php.
+
+********************************Version 2.0.3*****************************************
+Minor updates
+*Replaced sidebar column for page (instead of its for blog) in page.php.
+*Added styles for Welcart confirmation page in welcart.css.
+*Fixed an error which occurs mail-address varification in wc_templates/cart/wc_customer_page.php
+*Added anchor text to post titles in front-page.php & search.php.
+
+********************************Version 2.0*****************************************
+Major update conpatible for WordPress4.1
+*Front page slider width has changed.
+*Website width has changed to 1200px.
+*Updated all jQuery plugins, FontAwesome and Foundation5 to the latest versions.
+*For Welcart e-commerce plugin, adopted new stylesheet 'welcart.css' instead of using 'usces_cart.css'.
+
+********************************Version 1.0*****************************************
+First version:
+Blanc is simple, white, 100% responsive WordPress theme designed for Welcart e-Commerce plugin. Blog posts and e-Commerce shop can coexcist. Designed with the w3C latest HTML5 and CSS3, it's also set Microdata for Google's rich snippets. Breadcrumbs, related item lists, pagination are already prepared, and also it contains jQuery plugin settings of lightbox, input validation and image slider. You can run your online shop without those plugins, which makes the website lighter and faster.

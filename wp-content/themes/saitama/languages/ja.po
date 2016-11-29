@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: saitama Theme Translation v1.0\n"
+"POT-Creation-Date: 2016-02-11 15:28+0900\n"
+"PO-Revision-Date: 2016-02-16 18:34+0900\n"
+"Last-Translator: Communitycom, Inc. <yoshida@commynitycom.jp>\n"
+"Language-Team: Communitycom, Inc. <yoshida@communitycom.jp>\n"
+"Language: Japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: Description of the plugin/theme
+msgid ""
+"Saitama is a simple WordPress theme bulit by Bootstrap. It supports tablets "
+"and smartphones in the responsive Web design. By theme customize, setting "
+"slider you can easily."
+msgstr ""
+"SaitamaはBootstrapで構築されたシンプルなWordPressのテーマです。レスポンシブ"
+"Webデザインによりタブレットやスマートフォンに対応しています。テーマカスタマイ"
+"ザーで簡単にスライダーを設定できます。"
+
+#: ../404.php:14 ../inc/extras.php:84
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "ページが見つかりませんでした。"
+
+#: ../404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "このページは見つかりませんでした。トップページよりお探しください。"
+
+#: ../404.php:25
+msgid "Go to Top Page"
+msgstr "トップページに戻る"
+
+#: ../archive.php:41 ../front-page.php:60 ../search.php:44
+msgid "Read More"
+msgstr "続きを読む"
+
+#: ../comments.php:23
+msgid "Comments List"
+msgstr "コメント一覧"
+
+#: ../comments.php:26 ../comments.php:36
+msgid "Prevoius comment"
+msgstr "前のコメント"
+
+#: ../comments.php:27 ../comments.php:37
+msgid "Next comment"
+msgstr "次のコメント"
+
+#: ../front-page.php:23
+msgid "What`s New"
+msgstr "新着情報"
+
+#: ../functions.php:45
+msgid "GlobalNav"
+msgstr "グローバルナビ"
+
+#: ../functions.php:46
+msgid "FooterNav"
+msgstr "フッターナビ"
+
+#: ../functions.php:105
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: ../functions.php:115
+msgid "Header"
+msgstr "ヘッダー"
+
+#: ../functions.php:128
+msgid "Footer"
+msgstr "フッター"
+
+#: ../functions.php:138
+msgid "Front Page Top"
+msgstr "トップページ コンテンツエリア 上部"
+
+#: ../search.php:59
+msgid "No posts."
+msgstr "投稿はありません。"
+
+#: ../inc/bread-crumb.php:23
+msgid "Home"
+msgstr "ホーム"
+
+#: ../inc/bread-crumb.php:24
+#, php-format
+msgid "Search Result of \"%s\""
+msgstr "\"%s\" の検索結果"
+
+#: ../inc/bread-crumb.php:25
+msgid "404 Not Found"
+msgstr "見つかりませんでした"
+
+#: ../inc/bread-crumb.php:35
+msgid " &gt; "
+msgstr ""
+
+#: ../inc/custom-walker.php:103
+#, php-format
+msgid "#%d (no title)"
+msgstr ""
+
+#: ../inc/custom-widgets.php:35
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: ../inc/custom-widgets.php:61
+msgid "Select Category"
+msgstr "カテゴリー選択"
+
+#: ../inc/custom-widgets.php:117
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: ../inc/custom-widgets.php:138
+msgid "Select Year"
+msgstr "年選択"
+
+#: ../inc/custom-widgets.php:141
+msgid "Select Month"
+msgstr "月選択"
+
+#: ../inc/custom-widgets.php:144
+msgid "Select Day"
+msgstr "日選択"
+
+#: ../inc/custom-widgets.php:147
+msgid "Select Week"
+msgstr "週選択"
+
+#: ../inc/custom-widgets.php:150
+msgid "Select Post"
+msgstr "投稿選択"
+
+#: ../inc/custom-widgets.php:197
+msgid "Pages"
+msgstr "ページ"
+
+#: ../inc/custom-widgets.php:262
+msgid "Recent Posts"
+msgstr "最近の投稿"
+
+#: ../inc/customizer.php:19
+msgid "Design Settings"
+msgstr "デザイン設定"
+
+#: ../inc/customizer.php:30
+msgid "Key color"
+msgstr "キーカラー"
+
+#: ../inc/customizer.php:43
+msgid "Key Color(dark)"
+msgstr "キーカラー（暗）"
+
+#: ../inc/customizer.php:59
+msgid "Site logo image"
+msgstr "サイトロゴ画像"
+
+#: ../inc/customizer.php:69
+msgid "Slide show"
+msgstr "スライドショー"
+
+#: ../inc/customizer.php:86
+msgid "Slide image"
+msgstr "スライド画像"
+
+#: ../inc/customizer.php:101
+msgid "Link url"
+msgstr "リンクURL"
+
+#: ../inc/customizer.php:116
+msgid "Open in new window"
+msgstr "リンク先を別ウィンドウで開く"
+
+#: ../inc/customizer.php:131
+msgid "Caption"
+msgstr "キャプション"
+
+#: ../inc/customizer.php:146
+msgid "Alt Tag"
+msgstr "代替テキスト"
+
+#: ../inc/extras.php:101
+#, php-format
+msgid "%s of the article list"
+msgstr "%sの記事一覧"
+
+#: ../inc/extras.php:101
+msgid "F Y"
+msgstr "Y年n月"
+
+#: ../inc/extras.php:121
+msgid "Edit"
+msgstr "編集"
+
+#: ../inc/extras.php:129
+msgid "Post list"
+msgstr "投稿一覧"
+
+#: ../inc/extras.php:131
+#, php-format
+msgid "Search Results for: %s"
+msgstr "%s の検索結果"
+
+#: ../inc/extras.php:167
+msgid "Site Search"
+msgstr "サイト内検索"
+
+#: ../inc/extras.php:169
+msgid "Search"
+msgstr "検索"
+
+#: ../inc/extras.php:190
+msgid "Reply"
+msgstr "返信"
+
+#~ msgid "Settings saved."
+#~ msgstr "設定を保存しました"
